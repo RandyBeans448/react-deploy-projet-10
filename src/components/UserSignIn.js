@@ -52,7 +52,7 @@ export default class UserSignIn extends Component {
             to sign up!
           </p>
         </div>
-        <ParticlesContainer />
+//         <ParticlesContainer />
       </div>
     );
   }
